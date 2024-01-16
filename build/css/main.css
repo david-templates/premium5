@@ -1336,31 +1336,31 @@ blockquote {
   width: 95%;
 }
 .skill-percentage.skill-2 {
-  width: 65%;
-}
-.skill-percentage.skill-3 {
-  width: 80%;
-}
-.skill-percentage.skill-4 {
   width: 90%;
 }
-.skill-percentage.skill-5 {
+.skill-percentage.skill-3 {
   width: 85%;
+}
+.skill-percentage.skill-4 {
+  width: 80%;
+}
+.skill-percentage.skill-5 {
+  width: 75%;
 }
 .skill-percentage.skill-6 {
   width: 70%;
 }
 .skill-percentage.skill-7 {
-  width: 60%;
+  width: 65%;
 }
 .skill-percentage.skill-8 {
-  width: 75%;
+  width: 60%;
 }
 .skill-percentage.skill-9 {
-  width: 100%;
+  width: 55%;
 }
 .skill-percentage.skill-10 {
-  width: 80%;
+  width: 50%;
 }
 /* /Skills */
 
